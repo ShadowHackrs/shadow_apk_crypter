@@ -1,0 +1,4 @@
+colorama==0.4.6
+cryptography==41.0.7
+apktool==2.9.3
+apksigner==33.0.2 
