@@ -132,6 +132,7 @@ shadow_apk_crypter/
 * [Shadow Hacker](https://www.shadowhackr.com/)
 * [moPDF](https://www.mopdf.com/)
 * [Facebook Profile](https://www.facebook.com/Tareq.DJX/)
+* [Shadow APK Crypter]([https://www.shadowhackr.com/](https://www.shadowhackr.com/2025/05/shadow-apk-crypter-2025.html))
 
 ## ⚠️ Disclaimer
 
